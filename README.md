@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maciej Górecki
+# Hi 👋, I'm Maciej
 
 ### A passionate Computer Science Student 
 
