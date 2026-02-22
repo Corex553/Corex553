@@ -1,12 +1,12 @@
-# Hi 👋, I'm Maciej
+# Hi , I'm Maciej
 
 ### A passionate Computer Science Student 
 
-- 🌱 I'm currently learning **CyberSecurity and C language**
+-  I'm currently learning **CyberSecurity and C language**
 
-- 📫 How to reach me **macksontoja@gmail.com**
+-  How to reach me **macksontoja@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://corexx.pl/](https://corexx.pl/)**
+-  All of my projects are available at **[https://corexx.pl/](https://corexx.pl/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
