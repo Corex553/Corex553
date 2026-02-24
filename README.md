@@ -1,8 +1,8 @@
-# Hi , I'm Maciej
+## Hi , I'm Maciej
 
 ### A passionate Computer Science Student 
 
--  I'm currently learning
+- I'm currently learning:
     - Cybersecurity
     - C Language
 
